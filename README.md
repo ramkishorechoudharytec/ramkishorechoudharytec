@@ -25,8 +25,20 @@ I build websites and web applications for businesses, NGOs and startups, from de
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Background
+- **Web Developer**, Subha Technical Services Pvt Ltd (2025 to present): ASP.NET Web Forms, React.js, C#, AJAX
+- **B.Tech, Computer Science and Engineering**, Vivekananda Global University, Jaipur (2025)
+- Certifications: Agile with Atlassian Jira, Advanced Responsive Design (University of Michigan), Applied Text Mining in Python (University of Michigan)
 
 ## Services
 Business websites · Landing pages · Web apps and admin panels · NGO and institute portals · Online stores · Redesign and maintenance
