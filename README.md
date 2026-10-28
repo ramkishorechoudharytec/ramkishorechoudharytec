@@ -1,36 +1,38 @@
-# Hi, main Ramkishore Choudhary 👋
+# Hi, I'm Ramkishore Choudhary 👋
 
 ### Full-Stack Web Developer · Delhi, India
 
-Main businesses, NGOs aur startups ke liye websites aur web apps banata hoon, design se backend aur launch tak.
+I build websites and web applications for businesses, NGOs and startups, from design and backend to hosting and launch.
 
-## 🚀 Featured project
-**[Nirbhaya Sena Rajasthan](https://nirbhayasenarajasthan.com)**: NGO ke liye complete website + portal
-- Camp registration, trainer recruitment, membership aur volunteer forms
-- Online verification: trainer number, permission letter, certificate
-- Donation module with receipt print / verify
-- Gallery, blog, team pages, Hindi + English
+🌐 **Portfolio:** [ramkishorechoudharytec.github.io/portfolio](https://ramkishorechoudharytec.github.io/portfolio/)
+
+## Featured project
+**[Nirbhaya Sena Rajasthan](https://nirbhayasenarajasthan.com)**: a complete website and portal for a women's self-defence NGO
+- Camp registration, trainer recruitment, membership and volunteer forms
+- Public verification of trainer numbers, permission letters and certificates
+- Donation module with printable and verifiable receipts
+- Gallery, blog, team pages and a bilingual (Hindi and English) interface
 - Admin login portal
 
-## 🧩 More projects
-| Project | Kya hai | Tech |
+## Other projects
+| Project | Description | Tech |
 |---|---|---|
-| [FestiveDesigns](https://github.com/ramkishorechoudharytec/festive) | Festival posters website with filters, search aur admin upload panel | HTML, CSS, JavaScript |
-| [Mini Messenger](https://github.com/ramkishorechoudharytec/newmini-messenger) | Real-time chat app | JavaScript, Firebase |
-| [Weather App](https://github.com/ramkishorechoudharytec/new-weatherapp) | Kisi bhi shehar ka live mausam | JavaScript, OpenWeatherMap API |
+| [FestiveDesigns](https://github.com/ramkishorechoudharytec/festive) | Festival poster website with filters, search and an admin upload panel | HTML, CSS, JavaScript |
+| [Mini Messenger](https://github.com/ramkishorechoudharytec/newmini-messenger) | Real-time chat application | JavaScript, Firebase |
+| [Weather App](https://github.com/ramkishorechoudharytec/new-weatherapp) | Live weather for any city | JavaScript, OpenWeatherMap API |
 
-## 🛠 Tech stack
+## Tech stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 💼 Main kya banata hoon
-Business websites · Landing pages · Web apps aur admin panels · NGO / institute portals · Online stores · Redesign aur maintenance
+## Services
+Business websites · Landing pages · Web apps and admin panels · NGO and institute portals · Online stores · Redesign and maintenance
 
-## 📬 Contact
-- WhatsApp / Call: +91 74269 79735
+## Contact
 - Email: ramkishorechoudharytec@gmail.com
+- WhatsApp / phone: +91 74269 79735
 
-> Naya project? Message karein, free quote milega.
+*Open to freelance projects. Pricing on request.*
